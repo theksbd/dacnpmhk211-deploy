@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/dacnpmhk211-deploy/static/css/main.06353f30.chunk.css",
+    "main.js": "/dacnpmhk211-deploy/static/js/main.5f3e50fc.chunk.js",
+    "main.js.map": "/dacnpmhk211-deploy/static/js/main.5f3e50fc.chunk.js.map",
+    "runtime-main.js": "/dacnpmhk211-deploy/static/js/runtime-main.e7ffa1ec.js",
+    "runtime-main.js.map": "/dacnpmhk211-deploy/static/js/runtime-main.e7ffa1ec.js.map",
+    "static/css/2.3f04f5f1.chunk.css": "/dacnpmhk211-deploy/static/css/2.3f04f5f1.chunk.css",
+    "static/js/2.bd4c1f2f.chunk.js": "/dacnpmhk211-deploy/static/js/2.bd4c1f2f.chunk.js",
+    "static/js/2.bd4c1f2f.chunk.js.map": "/dacnpmhk211-deploy/static/js/2.bd4c1f2f.chunk.js.map",
+    "index.html": "/dacnpmhk211-deploy/index.html",
+    "static/css/2.3f04f5f1.chunk.css.map": "/dacnpmhk211-deploy/static/css/2.3f04f5f1.chunk.css.map",
+    "static/css/main.06353f30.chunk.css.map": "/dacnpmhk211-deploy/static/css/main.06353f30.chunk.css.map",
+    "static/js/2.bd4c1f2f.chunk.js.LICENSE.txt": "/dacnpmhk211-deploy/static/js/2.bd4c1f2f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e7ffa1ec.js",
+    "static/css/2.3f04f5f1.chunk.css",
+    "static/js/2.bd4c1f2f.chunk.js",
+    "static/css/main.06353f30.chunk.css",
+    "static/js/main.5f3e50fc.chunk.js"
+  ]
+}
