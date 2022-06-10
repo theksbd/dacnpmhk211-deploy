@@ -16,4 +16,4 @@
 - Vào file ConnectMySql.js trong thư mục Config của thư mục Server và thay thế mật khẩu và tên database bằng mật khẩu và tên database đã tạo 
 
 ## Video demo
-- Click vào [đây](https://drive.google.com/file/d/1px7wFH0pN__WuoWVYB8RQ6NzI9h-p89b/view?usp=sharing) để tới xem video trình bày demo về trang web.
+- Click vào [đây](https://drive.google.com/file/d/1uzT6N6aylKDAbgEh4I56T0v6SP9Tb-Ft/view?usp=sharing) để tới xem video trình bày demo về trang web.
